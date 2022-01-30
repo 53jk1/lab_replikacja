@@ -1,0 +1,118 @@
+LastSessions<|||>1<|||>MASTER
+LastActiveSession<|||>1<|||>MASTER
+SessionManager_WindowLeft<|||>3<|||>1055
+SessionManager_WindowTop<|||>3<|||>141
+ColWidths_connform.ListSessions<|||>1<|||>163,50,50,50,50,50,53
+ColsVisible_connform.ListSessions<|||>1<|||>0
+ColPositions_connform.ListSessions<|||>1<|||>0,1,2,3,4,5,6
+ColSort_connform.ListSessions<|||>1<|||>0,0
+MainWinOnMonitor<|||>3<|||>0
+ColWidths_MainForm.ListDatabases<|||>1<|||>150,80,50,50,50,50,50,50,50,50,120
+ColsVisible_MainForm.ListDatabases<|||>1<|||>0,1,2,3,4,5,6,7,8,9,10
+ColPositions_MainForm.ListDatabases<|||>1<|||>0,1,2,3,4,5,6,7,8,9,10
+ColSort_MainForm.ListDatabases<|||>1<|||>0,0
+ColWidths_MainForm.ListVariables<|||>1<|||>160,200,275
+ColsVisible_MainForm.ListVariables<|||>1<|||>0,1,2
+ColPositions_MainForm.ListVariables<|||>1<|||>0,1,2
+ColSort_MainForm.ListVariables<|||>1<|||>0,0
+ColWidths_MainForm.ListStatus<|||>1<|||>160,275,100,100
+ColsVisible_MainForm.ListStatus<|||>1<|||>0,1,2,3
+ColPositions_MainForm.ListStatus<|||>1<|||>0,1,2,3
+ColSort_MainForm.ListStatus<|||>1<|||>0,0
+ColWidths_MainForm.ListProcesses<|||>1<|||>70,80,80,80,80,50,50,145
+ColsVisible_MainForm.ListProcesses<|||>1<|||>0,1,2,3,4,5,6,7
+ColPositions_MainForm.ListProcesses<|||>1<|||>0,1,2,3,4,5,6,7
+ColSort_MainForm.ListProcesses<|||>1<|||>0,1
+ColWidths_MainForm.ListCommandStats<|||>1<|||>120,100,100,100,215
+ColsVisible_MainForm.ListCommandStats<|||>1<|||>0,1,2,3,4
+ColPositions_MainForm.ListCommandStats<|||>1<|||>0,1,2,3,4
+ColSort_MainForm.ListCommandStats<|||>1<|||>1,1
+ColWidths_MainForm.ListTables<|||>1<|||>120,70,70,120,120,70,100,50,70,70,70,70,70,90,120,70,70,70,50
+ColsVisible_MainForm.ListTables<|||>1<|||>0,1,2,3,4,5,6,18
+ColPositions_MainForm.ListTables<|||>1<|||>0,1,2,3,4,5,6,7,8,9,10,11,12,13,14,15,16,17,18
+ColSort_MainForm.ListTables<|||>1<|||>0,0
+FontSize<|||>3<|||>18
+Servers\MASTER\SessionCreated<|||>1<|||>2022-01-30 00:31:43
+Servers\MASTER\Host<|||>1<|||>127.0.0.1
+Servers\MASTER\WindowsAuth<|||>3<|||>0
+Servers\MASTER\User<|||>1<|||>root
+Servers\MASTER\Password<|||>1<|||>7B78787D9
+Servers\MASTER\LoginPrompt<|||>3<|||>0
+Servers\MASTER\Port<|||>1<|||>3306
+Servers\MASTER\NetType<|||>3<|||>0
+Servers\MASTER\Compressed<|||>3<|||>0
+Servers\MASTER\LocalTimeZone<|||>3<|||>0
+Servers\MASTER\QueryTimeout<|||>3<|||>30
+Servers\MASTER\KeepAlive<|||>3<|||>20
+Servers\MASTER\FullTableStatus<|||>3<|||>1
+Servers\MASTER\Databases<|||>1<|||>
+Servers\MASTER\Comment<|||>1<|||>
+Servers\MASTER\StartupScriptFilename<|||>1<|||>
+Servers\MASTER\TreeBackground<|||>3<|||>536870911
+Servers\MASTER\SSHtunnelHost<|||>1<|||>
+Servers\MASTER\SSHtunnelHostPort<|||>3<|||>22
+Servers\MASTER\SSHtunnelUser<|||>1<|||>
+Servers\MASTER\SSHtunnelPassword<|||>1<|||>4
+Servers\MASTER\SSHtunnelTimeout<|||>3<|||>4
+Servers\MASTER\SSHtunnelPrivateKey<|||>1<|||>
+Servers\MASTER\SSHtunnelPort<|||>3<|||>3307
+Servers\MASTER\SSL_Active<|||>3<|||>0
+Servers\MASTER\SSL_Key<|||>1<|||>
+Servers\MASTER\SSL_Cert<|||>1<|||>
+Servers\MASTER\SSL_CA<|||>1<|||>
+Servers\MASTER\SSL_Cipher<|||>1<|||>
+Servers\MASTER\RefusedCount<|||>3<|||>1
+Servers\MASTER\ServerVersionFull<|||>1<|||>5.7.11-log - MySQL Community Server (GPL)
+Servers\MASTER\ConnectCount<|||>3<|||>2
+Servers\MASTER\ServerVersion<|||>3<|||>50711
+Servers\MASTER\LastConnect<|||>1<|||>2022-01-30 01:11:01
+Servers\MASTER\lastUsedDB<|||>1<|||>
+Servers\MASTER\QueryHistory\1<|||>1<|||>2022-01-30 01:12:51||0|GRANT REPLICATION SLAVE ON * . * TO ' user ' IDENTIFIED BY ' pass ' ;<{{{><}}}>FLUSH PRIVILEGES ;
+Servers\MASTER\QueryHistory\2<|||>1<|||>2022-01-30 01:13:34||0|GRANT REPLICATION SLAVE ON *.* TO 'user' IDENTIFIED BY 'pass';<{{{><}}}>FLUSH PRIVILEGES ;
+Servers\MASTER\QueryHistory\3<|||>1<|||>2022-01-30 01:15:35||0|<{{{><}}}>GRANT REPLICATION SLAVE ON *.* TO 'user';<{{{><}}}>FLUSH PRIVILEGES ;
+Servers\MASTER\QueryHistory\5<|||>1<|||>2022-01-30 01:15:47||0|GRANT REPLICATION SLAVE ON *.* TO 'user';<{{{><}}}>FLUSH PRIVILEGES ;
+Servers\MASTER\QueryHistory\7<|||>1<|||>2022-01-30 01:35:50||31|STOP SLAVE ;<{{{><}}}>CHANGE MASTER TO MASTER_HOST= '127.0.0.1' ,<{{{><}}}>MASTER_PORT=3006 ,<{{{><}}}>MASTER_USER= 'user' ,<{{{><}}}>MASTER_PASSWORD= 'pass' ,<{{{><}}}>MASTER_LOG_FILE= 'mysql-bin.000004' ,<{{{><}}}>MASTER_LOG_POS= 4;<{{{><}}}>START SLAVE ;
+Servers\MASTER\QueryHistory\6<|||>1<|||>2022-01-30 01:35:57||0|CREATE DATABASE lab;
+Servers\MASTER\QueryHistory\8<|||>1<|||>2022-01-30 01:37:50|lab|0|USE lab
+Servers\MASTER\QueryHistory\9<|||>1<|||>2022-01-30 01:39:34|mysql|0|CREATE DATABASE lab2
+Servers\MASTER\QueryHistory\10<|||>1<|||>2022-01-30 01:43:02|lab|31|USE lab;<{{{><}}}>CREATE TABLE bricks (<{{{><}}}>  color VARCHAR(10),<{{{><}}}>  shape VARCHAR(10)<{{{><}}}>)
+Servers\MASTER\QueryHistory\11<|||>1<|||>2022-01-30 01:45:40|lab|0|INSERT INTO bricks(color, shape)<{{{><}}}>VALUES ('red', 'rectang')
+Servers\MASTER\QueryHistory\12<|||>1<|||>2022-01-30 01:45:46|lab|0|INSERT INTO bricks(color, shape)<{{{><}}}>VALUES ('blue', 'rectang')
+Servers\MASTER\QueryHistory\13<|||>1<|||>2022-01-30 01:45:48|lab|0|INSERT INTO bricks(color, shape)<{{{><}}}>VALUES ('green', 'rectang')
+Servers\MASTER\QueryHistory\14<|||>1<|||>2022-01-30 01:45:51|lab|0|INSERT INTO bricks(color, shape)<{{{><}}}>VALUES ('yellow', 'rectang')
+Servers\MASTER\QueryHistory\15<|||>1<|||>2022-01-30 01:45:54|lab|0|INSERT INTO bricks(color, shape)<{{{><}}}>VALUES ('pink', 'rectang')
+Servers\MASTER\QueryHistory\16<|||>1<|||>2022-01-30 01:45:57|lab|0|INSERT INTO bricks(color, shape)<{{{><}}}>VALUES ('brown', 'rectang')
+Servers\MASTER\QueryHistory\18<|||>1<|||>2022-01-30 01:52:14|lab|0|SELECT * FROM bricks
+Servers\MASTER\QueryHistory\17<|||>1<|||>2022-01-30 01:55:21|lab|0|DELETE FROM bricks WHERE color='red';
+Servers\MASTER\QueryHistory\19<|||>1<|||>2022-01-30 02:03:29|lab|0|SHOW MASTER STATUS
+Servers\MASTER\QueryHistory\4<|||>1<|||>2022-01-30 02:08:00|lab|0|DELETE FROM bricks WHERE color='blue';
+Servers\MASTER\QueryHistory\20<|||>1<|||>2022-01-30 02:08:30|lab|0|SELECT * FROM bricks;
+Servers\SLAVE\SessionCreated<|||>1<|||>2022-01-30 01:10:29
+Servers\SLAVE\Host<|||>1<|||>127.0.0.1
+Servers\SLAVE\WindowsAuth<|||>3<|||>0
+Servers\SLAVE\User<|||>1<|||>root
+Servers\SLAVE\Password<|||>1<|||>7875757A6
+Servers\SLAVE\LoginPrompt<|||>3<|||>0
+Servers\SLAVE\Port<|||>1<|||>3307
+Servers\SLAVE\NetType<|||>3<|||>0
+Servers\SLAVE\Compressed<|||>3<|||>0
+Servers\SLAVE\LocalTimeZone<|||>3<|||>0
+Servers\SLAVE\QueryTimeout<|||>3<|||>30
+Servers\SLAVE\KeepAlive<|||>3<|||>20
+Servers\SLAVE\FullTableStatus<|||>3<|||>1
+Servers\SLAVE\Databases<|||>1<|||>
+Servers\SLAVE\Comment<|||>1<|||>
+Servers\SLAVE\StartupScriptFilename<|||>1<|||>
+Servers\SLAVE\TreeBackground<|||>3<|||>536870911
+Servers\SLAVE\SSHtunnelHost<|||>1<|||>
+Servers\SLAVE\SSHtunnelHostPort<|||>3<|||>22
+Servers\SLAVE\SSHtunnelUser<|||>1<|||>
+Servers\SLAVE\SSHtunnelPassword<|||>1<|||>9
+Servers\SLAVE\SSHtunnelTimeout<|||>3<|||>4
+Servers\SLAVE\SSHtunnelPrivateKey<|||>1<|||>
+Servers\SLAVE\SSHtunnelPort<|||>3<|||>3307
+Servers\SLAVE\SSL_Active<|||>3<|||>0
+Servers\SLAVE\SSL_Key<|||>1<|||>
+Servers\SLAVE\SSL_Cert<|||>1<|||>
+Servers\SLAVE\SSL_CA<|||>1<|||>
+Servers\SLAVE\SSL_Cipher<|||>1<|||>
